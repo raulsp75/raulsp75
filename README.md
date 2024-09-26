@@ -27,7 +27,7 @@ Estoy abierto a colaborar en proyectos interesantes o participar en hackathons y
 
 ## 💬 Contacto
 
-- **Email**: raulsarmientoperez@gmail.com.com
+- **Email**: raulsarmientoperez@gmail.com
 
 ---
 
