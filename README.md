@@ -35,6 +35,7 @@ Soy un apasionado desarrollador y entusiasta de la tecnología que disfruta apre
     <td>
       <img src="https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Proxmox-8A4B2A?style=for-the-badge&logo=proxmox&logoColor=white" />
       <img src="https://img.shields.io/badge/RAID-FFCA28?style=for-the-badge&logo=raid&logoColor=black" />
     </td>
   </tr>
