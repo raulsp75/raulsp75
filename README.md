@@ -31,18 +31,32 @@ Soy un apasionado desarrollador y entusiasta de la tecnología que disfruta apre
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Herramientas y Tecnologías</strong></td>
+    <td align="center"><strong>Administración de Sistemas</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/phpMyAdmin-6C8F8F?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
       <img src="https://img.shields.io/badge/RAID-FFCA28?style=for-the-badge&logo=raid&logoColor=black" />
-      <img src="https://img.shields.io/badge/NFS-2E2E2E?style=for-the-badge&logo=linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Samba-4A90E2?style=for-the-badge&logo=samba&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Protocolos y Servicios</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/DHCP-3DDC84?style=for-the-badge&logo=dhcp&logoColor=black" />
       <img src="https://img.shields.io/badge/DNS-2E7D32?style=for-the-badge&logo=dns&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Almacenamiento y Redes</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Samba-4A90E2?style=for-the-badge&logo=samba&logoColor=white" />
+      <img src="https://img.shields.io/badge/NFS-2E2E2E?style=for-the-badge&logo=linux&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Herramientas de Desarrollo</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/phpMyAdmin-6C8F8F?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
     </td>
@@ -97,5 +111,3 @@ Estoy abierto a colaborar en proyectos interesantes, participar en hackathons y 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love"/>
 </p>
-
-
