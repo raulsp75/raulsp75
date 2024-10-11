@@ -68,14 +68,13 @@ Soy un apasionado desarrollador y entusiasta de la tecnología que disfruta apre
 
 ## 🌱 Actualmente aprendiendo
 
-- 📱 Desarrollo de aplicaciones móviles con **React Native**
-- 🚀 DevOps con **Docker** y **Kubernetes**
+- Cursando 2 ASIR en el Villa de Agüimes
 
 ---
 
 ## 🎯 Objetivos
 
-- Mejorar mis habilidades en **desarrollo full stack**
+- Mejorar mis habilidades.
 - Contribuir a **proyectos de código abierto**
 - Seguir aprendiendo y compartiendo conocimientos con la comunidad 👨‍💻
 
@@ -83,19 +82,7 @@ Soy un apasionado desarrollador y entusiasta de la tecnología que disfruta apre
 
 ## 🤝 Colabora conmigo
 
-Estoy abierto a colaborar en proyectos interesantes, participar en hackathons y retos de programación. Si tienes una idea genial, ¡no dudes en contactarme! 🚀
-
----
-
-## 📊 Mis Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Raúl's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Raúl's GitHub Streak" />
-</p>
+Estoy abierto a colaborar en proyectos interesantes. Si tienes una idea genial, ¡no dudes en contactarme! 🚀
 
 ---
 
